@@ -1,7 +1,7 @@
 {
     "name": "vahnmarty/banpos-inventory",
     "description": "Inventory System for BanPOS",
-    "type": "composer-plugin",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Vahnmarty\\BanposInventory\\": "src/"
